@@ -8,3 +8,6 @@ This project aims to develop machine learning features in SCILAB, which will be 
 ml libraries to be adapted from python to Scilab-
 
  * Scikit-learn
+ 
+ 
+Major approach being followed is integration of Jupyter_client within Scilab.
