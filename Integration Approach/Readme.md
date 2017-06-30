@@ -17,4 +17,4 @@ Even if we decide to follow the PIMS approach or continue working on this jupyte
 
 A basic illustration to understand the approach adopted:
 
-![]({{site.baseurl}}/Integration\Approach/jupyter_ml%20-%20Copy.png)
+![](https://github.com/mandroid6/Machine-Learning-Feautures-SCILAB/blob/master/Integration%20Approach/jupyter_ml%20-%20Copy.png)
