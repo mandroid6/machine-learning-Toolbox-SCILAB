@@ -10,8 +10,10 @@ Here these numpy objects are converted to SCILAB content(i.e. matrices) and are 
 The results from both the methods have been compared, and they give exactly the same predictions. The following plots are from the same testset.
 
 Python Plot
+
 ![](https://github.com/mandroid6/Machine-Learning-Feautures-SCILAB/blob/master/Integration%20Approach/PIMS_python_plot_compare/Python%20Code/python_plot.png)
 
 
 Scilab Plot
-![](https://github.com/mandroid6/Machine-Learning-Feautures-SCILAB/tree/master/Integration%20Approach/PIMS_python_plot_compare/SCILAB%20CODE)
+
+![](https://github.com/mandroid6/Machine-Learning-Feautures-SCILAB/blob/master/Integration%20Approach/PIMS_python_plot_compare/SCILAB%20CODE/scilab_plot.png)
