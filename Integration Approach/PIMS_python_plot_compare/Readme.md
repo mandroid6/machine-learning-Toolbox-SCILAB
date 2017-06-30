@@ -1,4 +1,4 @@
-#PIMS and Python Plot Comparison
+# PIMS and Python Plot Comparison
 
 A simple linear regression example using scikit-learn's linear_model has been considered here. 
 
