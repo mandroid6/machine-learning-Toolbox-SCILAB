@@ -8,6 +8,7 @@ Following are the important points of this approach:
      3. Once execution completes, passing back the python objects like regression model to Scilab and converting it to Scilab context.
      4. This converted object can then be used for solving any required operation through Scilab like a differential equation. 
 - Two major parts of this approach are :
+        
         [1] Passing the python script file to the jupyter server, and/or letting the python kernel to know where this file exists 
         [2] Conversion of python objects to Scilab compatible form 
 
