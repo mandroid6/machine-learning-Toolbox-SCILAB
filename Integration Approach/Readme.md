@@ -7,10 +7,9 @@ Following are the important points of this approach:
      2. Sending the ml script created to the python kernel running on jupyter server.
      3. Once execution completes, passing back the python objects like regression model to Scilab and converting it to Scilab context.
      4. This converted object can then be used for solving any required operation through Scilab like a differential equation. 
-- Two major parts of this approach are :
-        
-        [1] Passing the python script file to the jupyter server, and/or letting the python kernel to know where this file exists 
-        [2] Conversion of python objects to Scilab compatible form 
+- Two major parts of this approach are:
+     [1] Passing the python script file to the jupyter server, and/or letting the python kernel to know where this file exists 
+     [2] Conversion of python objects to Scilab compatible form 
 
 Part [1] involves, passing the path of the script file to the jupyter server so that the python kernel can execute it. 
 This can be achieved through python code for transferring/copying the script file to python kernel path. 
