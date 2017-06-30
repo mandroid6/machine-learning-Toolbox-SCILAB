@@ -13,4 +13,8 @@ Following are the important points of this approach:
 
 Part [1] involves, passing the path of the script file to the jupyter server so that the python kernel can execute it. 
 This can be achieved through python code for transferring/copying the script file to python kernel path. 
-Even if we decide to follow the PIMS approach or continue working on this jupyter server method, we would be required to handle part [2]. 
+Even if we decide to follow the PIMS approach or continue working on this jupyter server method, we would be required to handle part [2].
+
+A basic illustration to understand the approach adopted:
+
+![]({{site.baseurl}}/https://github.com/mandroid6/Machine-Learning-Feautures-SCILAB/blob/master/Integration%20Approach/jupyter_ml.png)
