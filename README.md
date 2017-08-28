@@ -38,7 +38,7 @@ On the remote server side
  * Datasets
 
 ## Logical Flow Diagram Diagram
-![](/Final%20Submission/jupyter_ml_final3.png)
+![](/Final%20Submission/Logical_Flow.png)
 
 ## Workflow Diagram
 ![](/Final%20Submission/Workflow.jpg)
@@ -47,7 +47,7 @@ On the remote server side
 
 Work done on Jupyter Approach: [Final Submission](https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/tree/master/Final%20Submission)
 
-For complete procedure for using ML in scilab, follow the [User Guide](https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/User_guide_v3.pdf)
+For complete procedure for using ML in scilab, follow the [User Guide](https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/User_guide_v4.pdf)
 
 Development reports : https://wiki.scilab.org/Machine%20Learning%20Toolbox%20in%20Scilab
 
