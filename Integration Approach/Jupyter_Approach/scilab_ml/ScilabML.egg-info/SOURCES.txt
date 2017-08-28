@@ -1,0 +1,11 @@
+setup.py
+ScilabML.egg-info/PKG-INFO
+ScilabML.egg-info/SOURCES.txt
+ScilabML.egg-info/dependency_links.txt
+ScilabML.egg-info/not-zip-safe
+ScilabML.egg-info/requires.txt
+ScilabML.egg-info/top_level.txt
+Scilab_ml/__init__.py
+Scilab_ml/python_local.py
+Scilab_ml/python_retrive.py
+Scilab_ml/python_server_lr.py
