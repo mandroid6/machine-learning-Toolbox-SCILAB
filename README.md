@@ -25,8 +25,8 @@ Major approach being followed is integration of Jupyter_client within Scilab, us
 ## Requirements (Getting Started)
 
 The toolbox requires the user to have the following softwares and packages to be installed:
- * Scilab 6.0.0 with scipython toolbox
- * Python 2.7 with numpy and scipy
+ * [Scilab 6.0.0](www.scilab.org/en/download/latest) with [scipython toolbox](https://atoms.scilab.org/toolboxes/scipython)
+ * [Python 2.7](https://www.python.org/downloads/) with numpy and scipy
  * Jupyter_client, notebook
  * Ipython kernel
 
