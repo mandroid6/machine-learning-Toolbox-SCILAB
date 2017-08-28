@@ -20,12 +20,33 @@ ml libraries to be adapted from python to Scilab-
 
  * Scikit-learn
  
+Major approach being followed is integration of Jupyter_client within Scilab, using a remote IPython kernel.
  
+## Requirements (Getting Started)
+
+The toolbox requires the user to have the following softwares and packages to be installed:
+•	Scilab 6.0.0 with scipython toolbox
+•	Python 2.7 with numpy and scipy
+•	Jupyter_client, notebook
+•	Ipython kernel
+
+On the remote server side
+•	Python 2.7 with numpy and scipy
+•	Jupyter notebook
+•	Ipython
+•	Scikit-learn 
+•	Datasets
+
+## Logical Flow Diagram Diagram
+![]({{site.baseurl}}/https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/jupyter_ml_final3.png)
+
 ## Workflow Diagram
+![]({{site.baseurl}}/https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/Workflow.jpg)
 
  
- 
-Major approach being followed is integration of Jupyter_client within Scilab, using a remote IPython kernel.
+## Detailed Info
+
+For complete procedure for using ML in scilab, follow the [User Guide](https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/User_guide_v3.pdf)
 
 Development reports : https://wiki.scilab.org/Machine%20Learning%20Toolbox%20in%20Scilab
 
