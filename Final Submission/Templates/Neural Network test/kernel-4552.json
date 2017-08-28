@@ -1,0 +1,12 @@
+{
+  "stdin_port": 9322, 
+  "ip": "10.20.6.1", 
+  "control_port": 9325, 
+  "hb_port": 9338, 
+  "signature_scheme": "hmac-sha256", 
+  "key": "a862e4bd-ae631920e9c59898276ccefd", 
+  "kernel_name": "", 
+  "shell_port": 9319, 
+  "transport": "tcp", 
+  "iopub_port": 9328
+}
