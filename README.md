@@ -38,10 +38,10 @@ On the remote server side
 •	Datasets
 
 ## Logical Flow Diagram Diagram
-![]({{site.baseurl}}/Final%20Submission/jupyter_ml_final3.png)
+![](/Final%20Submission/jupyter_ml_final3.png)
 
 ## Workflow Diagram
-![]({{site.baseurl}}/Final%20Submission/Workflow.jpg)
+![](/Final%20Submission/Workflow.jpg)
 
  
 ## Detailed Info
