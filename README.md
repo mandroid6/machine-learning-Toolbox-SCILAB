@@ -25,23 +25,23 @@ Major approach being followed is integration of Jupyter_client within Scilab, us
 ## Requirements (Getting Started)
 
 The toolbox requires the user to have the following softwares and packages to be installed:
-•	Scilab 6.0.0 with scipython toolbox
-•	Python 2.7 with numpy and scipy
-•	Jupyter_client, notebook
-•	Ipython kernel
+ * Scilab 6.0.0 with scipython toolbox
+ * Python 2.7 with numpy and scipy
+ * Jupyter_client, notebook
+ * Ipython kernel
 
 On the remote server side
-•	Python 2.7 with numpy and scipy
-•	Jupyter notebook
-•	Ipython
-•	Scikit-learn 
-•	Datasets
+ * Python 2.7 with numpy and scipy
+ * Jupyter notebook
+ * Ipython
+ * Scikit-learn 
+ * Datasets
 
 ## Logical Flow Diagram Diagram
-![](/Final%20Submission/jupyter_ml_final3.png)
+![]({{site.baseurl}}/Final%20Submission/jupyter_ml_final3.png)
 
 ## Workflow Diagram
-![](/Final%20Submission/Workflow.jpg)
+![]({{site.baseurl}}/Final%20Submission/Workflow.jpg)
 
  
 ## Detailed Info
