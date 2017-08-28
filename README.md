@@ -38,10 +38,10 @@ On the remote server side
 •	Datasets
 
 ## Logical Flow Diagram Diagram
-![]({{site.baseurl}}/https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/jupyter_ml_final3.png)
+![]({{site.baseurl}}/Final%20Submission/jupyter_ml_final3.png)
 
 ## Workflow Diagram
-![]({{site.baseurl}}/https://github.com/mandroid6/machine-learning-Toolbox-SCILAB/blob/master/Final%20Submission/Workflow.jpg)
+![]({{site.baseurl}}/Final%20Submission/Workflow.jpg)
 
  
 ## Detailed Info
